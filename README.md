@@ -67,18 +67,7 @@ I’m passionate about turning raw data into **meaningful insights, interactive 
 
 ---
 
-### 🎓 Student Fees Dashboard
 
-**Tools:** Excel • VBA • Pivot Tables • Slicers
-
-* Built a student fee tracking system
-* Created KPI cards for total students, fees paid and remaining fees
-* Added course-wise analysis
-* Created interactive slicers
-* Automated fee calculations
-* Designed a simple and interactive dashboard
-
----
 
 ## 🔥 GitHub Streak
 
