@@ -14,12 +14,11 @@
 ![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Parth45-tech&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Parth45-tech&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Parth45-tech&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
----
-[![](https://komarev.com/ghpvc/?username=Parth45-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parth45-tech&show_icons=true&theme=cobalt&hide_border=false)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Parth45-tech&theme=cobalt&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth45-tech&theme=cobalt&hide_border=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
