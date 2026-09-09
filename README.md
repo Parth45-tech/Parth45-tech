@@ -69,13 +69,9 @@ I’m passionate about turning raw data into **meaningful insights, interactive 
 
 
 
-## 🔥 GitHub Streak
+## 📊 GitHub Activity
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Parth45-tech&theme=cobalt&hide_border=false" />
-
-</p>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Parth45--tech-181717?style=for-the-badge&logo=github)](https://github.com/Parth45-tech)
 
 ---
 
