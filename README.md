@@ -1,10 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Analytics<br>💬 Ask me about<br>⚡ Fun fact
-
-
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Parth Shetye) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthshetye277@gmail.com) 
-
 # 👋 Hi, I'm Parth Shetye
 
 ### 📊 Aspiring Data Analyst | Excel • SQL • Power BI • Tableau • Python
@@ -14,25 +7,25 @@ I’m passionate about turning raw data into **meaningful insights, interactive 
 🌱 Currently learning **Data Analytics & Business Intelligence**
 📊 Building projects using **Excel, SQL, Power BI, Tableau & Python**
 🚀 Interested in **Data Analysis, Data Visualization & Business Intelligence**
-💡 I enjoy transforming messy datasets into clean, understandable dashboards.
+💡 I enjoy transforming raw and messy data into clean, understandable dashboards.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 📈 Building **Data Analytics projects and dashboards**
-* 📊 Experienced with **Microsoft Excel & VBA**
+* 📈 Building real-world **Data Analytics projects and dashboards**
+* 📊 Working with **Microsoft Excel & VBA**
 * 🗄️ Learning and working with **SQL & MySQL**
 * 🐍 Learning **Python for Data Analysis**
 * 📊 Creating dashboards using **Power BI & Tableau**
-* 🔍 Interested in finding patterns and insights hidden inside data
-* 🚀 Currently building projects to strengthen my **Data Analyst portfolio**
+* 🔍 Interested in discovering patterns and insights hidden inside data
+* 🚀 Building projects to strengthen my **Data Analyst portfolio**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data Analytics & BI
+### 📊 Data Analytics & Business Intelligence
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
@@ -50,7 +43,7 @@ I’m passionate about turning raw data into **meaningful insights, interactive 
 
 ### 🛒 E-Commerce Sales Analytics Dashboard
 
-📊 **Excel | Pivot Tables | Slicers | Dashboard**
+**Tools:** Excel • Pivot Tables • Slicers • Charts • Dashboard
 
 * Cleaned and analyzed e-commerce data
 * Created KPI cards for important business metrics
@@ -62,7 +55,7 @@ I’m passionate about turning raw data into **meaningful insights, interactive 
 
 ### 🚚 Supply Chain Analytics Dashboard
 
-📊 **Excel | VBA | Pivot Tables | Dashboard Automation**
+**Tools:** Excel • VBA • Pivot Tables • Dashboard Automation
 
 * Built an automated supply-chain dataset
 * Created automatic Order ID generation
@@ -70,21 +63,20 @@ I’m passionate about turning raw data into **meaningful insights, interactive 
 * Automated sales, cost and profit calculations
 * Added inventory before/after calculations
 * Created interactive dashboard analysis
-* Focused on making the dashboard update automatically when data changes
+* Automated dashboard updates when data changes
 
 ---
 
+### 🎓 Student Fees Dashboard
 
+**Tools:** Excel • VBA • Pivot Tables • Slicers
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Parth45-tech&show_icons=true&theme=cobalt&hide_border=false" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth45-tech&layout=compact&theme=cobalt&hide_border=false" />
-
-</p>
+* Built a student fee tracking system
+* Created KPI cards for total students, fees paid and remaining fees
+* Added course-wise analysis
+* Created interactive slicers
+* Automated fee calculations
+* Designed a simple and interactive dashboard
 
 ---
 
@@ -100,14 +92,14 @@ I’m passionate about turning raw data into **meaningful insights, interactive 
 
 ## 📊 What I'm Learning
 
-```text
-Excel        ████████████████████░   Advanced
-SQL          ████████████████░░░░░   Learning
-Power BI     ████████████████░░░░░   Learning
-Tableau      ██████████████░░░░░░░   Learning
-Python       ████████████░░░░░░░░░   Learning
-VBA          ████████████████░░░░░   Learning
-```
+| Skill       | Focus    |
+| ----------- | -------- |
+| 📊 Excel    | Advanced |
+| 🗄️ SQL     | Learning |
+| 📈 Power BI | Learning |
+| 📊 Tableau  | Learning |
+| 🐍 Python   | Learning |
+| ⚙️ VBA      | Advanced |
 
 ---
 
@@ -118,8 +110,17 @@ VBA          ████████████████░░░░░   L
 * 📈 Create advanced Power BI dashboards
 * 🗄️ Improve SQL problem-solving skills
 * 🐍 Learn Python for data analysis
+* 📊 Improve data visualization skills
 * 💼 Build a strong Data Analyst portfolio
 * 🚀 Prepare for Data Analyst opportunities
+
+---
+
+## 📌 Currently Working On
+
+🚚 **Supply Chain Analytics Dashboard**
+
+Working on automation, data analysis, dashboard design and business insights using **Excel & VBA**.
 
 ---
 
@@ -133,4 +134,4 @@ VBA          ████████████████░░░░░   L
 
 ⭐ If you find my projects useful, consider giving them a star!
 
-**Thanks for visiting my profile! 🚀**
+### Thanks for visiting my profile! 🚀
